@@ -10,3 +10,6 @@ The official implementation of "2024 Dynamic Diffusion Transformer".
 > <sup>1</sup>[National University of Singapore](https://www.nus.edu.sg/), <sup>2</sup>[DAMO Academy, Alibaba Group](https://damo.alibaba.com/?language=zh), <sup>3</sup>Hupan Lab, <sup>4</sup>[Tsinghua University](https://www.tsinghua.edu.cn/)
 >
 >  [Paper]()
+
+
+The code is coming soon.
