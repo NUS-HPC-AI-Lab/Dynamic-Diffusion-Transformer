@@ -33,7 +33,7 @@ Diffusion Transformer (DiT), an emerging diffusion model for image generation, h
 
 
 ## 🚀 News
-- `2025.03.26:` **The enhanced version of our method (including training code) is now available at in https://github.com/alibaba-damo-academy/DyDiT/tree/main **
+- `2025.03.26:` **The enhanced version of our method (including training code) is now available at in https://github.com/alibaba-damo-academy/DyDiT/tree/main**
 - `2025.01.23:` DyDiT is accepted by ICLR 2025!!! We will update the code and paper soon.
 - `2024.12.19:` We release the code for inference. 
 - `2024.10.04:` Our paper is released.
