@@ -6,6 +6,8 @@
   </picture>
 </p>
 
+The enhanced version of our method has been released in https://github.com/alibaba-damo-academy/DyDiT/tree/main
+
 The official implementation of "2024 Dynamic Diffusion Transformer".
 
 
