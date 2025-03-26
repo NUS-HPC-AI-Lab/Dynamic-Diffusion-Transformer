@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-🔥🔥🔥 2025.03.26 update: The enhanced version of our method (including training code) is now available at in https://github.com/alibaba-damo-academy/DyDiT/tree/main 🔥🔥🔥
+**🔥🔥🔥 2025.03.26 update: The enhanced version of our method (including training code) is now available at in https://github.com/alibaba-damo-academy/DyDiT/tree/main 🔥🔥🔥**
 
 The official implementation of "2024 Dynamic Diffusion Transformer".
 
